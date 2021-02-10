@@ -52,7 +52,7 @@ All colour palettes were extracted from images of original works using the `magi
 ### Strawberry Thief (1883)  
 
 ``` r
-scales::show_col(morris:::strawberry_pal)
+scales::show_col(morris:::strawberry_palette)
 ```
 
 ### Trellis (1864)  
