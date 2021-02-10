@@ -1,6 +1,6 @@
-🎨 morris: William Morris Colour Palettes for ggplot2 🎨
+🎨📦 morris: William Morris palettes for ggplot2 📦🎨
 ================
-Christian S. Hoggard (University of Southampton)
+Christian Steven Hoggard (University of Southampton)
 
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cshoggard/morris/blob/master/LICENSE.md)
@@ -135,7 +135,7 @@ penguins %>%
         legend.position = "bottom")
 ```
 
-<img src="readme_files/Example.tiff" width="400" />  
+<img src="readme_files/Example.png" width="700" />  
 
 
 
