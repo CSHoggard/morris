@@ -135,7 +135,7 @@ penguins %>%
         legend.position = "bottom")
 ```
 
-<img src="readme_files/Example.tiff" width="400" />  
+<img src="readme_files/example.png" width="400" />  
 
 
 
