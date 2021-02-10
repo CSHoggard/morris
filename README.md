@@ -18,3 +18,16 @@ Here, palettes are constructed from six of William Morris' most famous works:
 - **Embroidery with Flowers and Leaves (Leek Embroidery Society)** (1885-1895). Rijksmuseum no. BK-1994-28.  
 - **Acanthus** (1875). V&A Museum no. E.496-1919.  
 
+## Colour Palettes
+
+# Strawberry Thief (1883)  
+
+# Trellis (1864)  
+
+# Holland Park (1883)  
+
+# Peacock and Dragons (1878)  
+
+# Embroider with Flowers and Leaves (1885-1895)  
+
+# Acanthus (1875)
