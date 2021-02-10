@@ -7,6 +7,8 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cs
 
 # Installation  
 
+Please use the `devtools` package to install it.
+
 ``` r
 devtools::install_github("cshoggard/morris")
 ```
@@ -50,7 +52,7 @@ All colour palettes were extracted from images of original works using the `magi
 ### Strawberry Thief (1883)  
 
 ``` r
-scales::show_col(morris:::strawberry_palette)
+scales::show_col(morris:::strawberry_pal)
 ```
 
 ### Trellis (1864)  
