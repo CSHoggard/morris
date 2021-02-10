@@ -101,7 +101,7 @@ scales::show_col(morris:::acanthus_palette)
 <img src="readme_files/acanthus.jpeg" width="600" />  
   
   
-## For example...
+## An example:
 
 ``` r
 library(tidyverse)
@@ -137,7 +137,7 @@ penguins %>%
         legend.position = "bottom")
 ```
 
-<img src="readme_files/Example.png" width="700" />  
+<img src="readme_files/Example.png" width="900" />  
 
 
 
