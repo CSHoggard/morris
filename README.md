@@ -1,4 +1,4 @@
-🎨 morris: William Morris Colour palettes for ggplot2 🎨
+🎨📦 morris: William Morris Colour palettes for ggplot2 📦🎨
 ================
 Christian S. Hoggard (University of Southampton)
 
