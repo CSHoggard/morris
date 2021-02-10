@@ -55,7 +55,7 @@ All colour palettes were extracted from images of original works using the `magi
 scales::show_col(morris:::strawberry_palette)
 ```
 
-<img src="readme_files/strawberry_chart.jpg" width="300" />  
+<img src="readme_files/strawberry_chart.jpeg" width="300" />  
 
 ### Trellis (1864)  
 
@@ -63,7 +63,7 @@ scales::show_col(morris:::strawberry_palette)
 scales::show_col(morris:::trellis_palette)
 ```  
 
-<img src="readme_files/trellis_chart.jpg" width="300" />  
+<img src="readme_files/trellis_chart.jpeg" width="300" />  
 
 ### Holland Park (1883)  
 
@@ -71,7 +71,7 @@ scales::show_col(morris:::trellis_palette)
 scales::show_col(morris:::holland_palette)
 ```
 
-<img src="readme_files/holland_chart.jpg" width="300" />  
+<img src="readme_files/holland_chart.jpeg" width="300" />  
 
 ### Peacock and Dragons (1878)  
 
@@ -79,7 +79,7 @@ scales::show_col(morris:::holland_palette)
 scales::show_col(morris:::peacock_palette)
 ```
 
-<img src="readme_files/peacock_chart.jpg" width="300" />  
+<img src="readme_files/peacock_chart.jpeg" width="300" />  
 
 ### Embroider with Flowers and Leaves (1885-1895)  
 
@@ -87,7 +87,7 @@ scales::show_col(morris:::peacock_palette)
 scales::show_col(morris:::flowers_palette)
 ```
 
-<img src="readme_files/flowers_chart.jpg" width="300" />  
+<img src="readme_files/flowers_chart.jpeg" width="300" />  
 
 
 ### Acanthus (1875)  
@@ -96,5 +96,5 @@ scales::show_col(morris:::flowers_palette)
 scales::show_col(morris:::acanthus_palette)
 ```
 
-<img src="readme_files/acanthus_chart.jpg" width="300" />  
+<img src="readme_files/acanthus_chart.jpeg" width="300" />  
 
