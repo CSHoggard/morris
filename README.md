@@ -5,6 +5,13 @@ Christian S. Hoggard
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cshoggard/morris/blob/master/LICENSE.md)
 
+# Installation  
+
+Please use the `devtools` package to install it.
+
+``` r
+devtools::install_github("cshoggard/morris")
+```
 
 # Introduction
 
@@ -43,6 +50,10 @@ Here, palettes are constructed from six of William Morris' most famous works:
 All colour palettes were extracted from images of original works using the `magick` and `imager` packages.
 
 ### Strawberry Thief (1883)  
+
+``` r
+scales::show_col(morris:::strawberry_palette)
+```
 
 ### Trellis (1864)  
 
