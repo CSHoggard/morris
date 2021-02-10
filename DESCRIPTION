@@ -2,7 +2,7 @@ Package: morris
 Title: William Morris colour palettes for ggplot2 graphics
 Version: 0.0.0.1
 Authors@R: c(
-    person(given = "Christian", family = "Hoggard", role = c("aut", "cre"), email = "christianhoggard@gmail.com"),
+    person(given = "Christian", family = "Hoggard", role = c("aut", "cre"), email = "christianhoggard@gmail.com")
     )       
 Description: Bringing the Arts and Crafts Movement to ggplot2.
 Imports:
