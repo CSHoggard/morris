@@ -5,6 +5,15 @@
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cshoggard/morris/blob/master/LICENSE.md)
 
+# Introduction
+  
+<p align="center"><img src="readme_files/wm.jpg" width="400" /></p>  
+
+<p align="center"><em>“If others can see it as I have seen it, then it may be called a vision rather than a dream.” </em><br>(William Morris, News From Nowhere)</p> 
+
+
+This package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist [William Morris](https://en.wikipedia.org/wiki/William_Morris). William Morris (1834-1896) was a major contributor to the revival of traditional British textile arts and is best associated with the [British Arts and Crafts movement](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement). Rooted in the [Modern Style (British Art Nouveau)](https://en.wikipedia.org/wiki/Modern_Style_(British_Art_Nouveau_style)), the Arts and Crafts movement was known for traditional craftsmanship, often using medieval, romantic and folk styles of decoration. Known for its advocation of economic and social reform, the movement was strongly anti-industrial, and prior to the 1930s had a strong influence on the arts in Europe. 
+
 # Installation  
 
 Please use the `devtools` package inorder to install `morris`.
@@ -12,14 +21,6 @@ Please use the `devtools` package inorder to install `morris`.
 ``` r
 devtools::install_github("cshoggard/morris")
 ```
-
-# Introduction
-  
-<p align="center"><em>“If others can see it as I have seen it, then it may be called a vision rather than a dream.” </em><br>(William Morris, News From Nowhere)</p> 
-
-<p align="center"><img src="readme_files/wm.jpg" width="400" /></p>
-
-This package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist [William Morris](https://en.wikipedia.org/wiki/William_Morris). William Morris (1834-1896) was a major contributor to the revival of traditional British textile arts and is best associated with the [British Arts and Crafts movement](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement). Rooted in the [Modern Style (British Art Nouveau)](https://en.wikipedia.org/wiki/Modern_Style_(British_Art_Nouveau_style)), the Arts and Crafts movement was known for traditional craftsmanship, often using medieval, romantic and folk styles of decoration. Known for its advocation of economic and social reform, the movement was strongly anti-industrial, and prior to the 1930s had a strong influence on the arts in Europe.  
 
 Here, palettes are constructed from six of William Morris' most famous works: 
 
