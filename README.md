@@ -16,22 +16,27 @@ Here, palettes are constructed from six of William Morris' most famous works:
 
 - **Strawberry Thief** (1883). V&A Museum no. T.586-1919.  
 
-![](readme_files/st.jpg)  
+<img src="readme_files/st.jpg" width="200" />
 
-- **Trellis** (1864). V&A Museum no. E.452-1919. 
-![](readme_files/t.jpg)  
+- **Trellis** (1864). V&A Museum no. E.452-1919.  
+
+<img src="readme_files/t.jpg" width="200" /> 
 
 - **Holland Park** (1883). Met Museum no. 27.139.3.  
-![](readme_files/hp.jpg)  
+
+<img src="readme_files/hp.jpg" width="200" />  
 
 - **Peacock and Dragons** (1878). WMG no. F26e.  
-![](readme_files/pd.jpg)  
+
+<img src="readme_files/pd.jpg" width="200" />  
 
 - **Embroidery with Flowers and Leaves (Leek Embroidery Society)** (1885-1895). Rijksmuseum no. BK-1994-28.  
-![](readme_files/fl.jpg)  
+
+<img src="readme_files/fl.jpg" width="200" />
 
 - **Acanthus** (1875). V&A Museum no. E.496-1919. 
-![](readme_files/a.jpg)
+
+<img src="readme_files/a.jpg" width="200" />
 
 ## Colour Palettes  
 
