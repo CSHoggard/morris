@@ -1,4 +1,4 @@
-William Morris Colour Palettes for ggplot2 
+morris: William Morris Colour Palettes for ggplot2 
 ================
 Christian S. Hoggard
 
