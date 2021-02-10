@@ -19,7 +19,7 @@ Here, palettes are constructed from six of William Morris' most famous works:
 ![](readme_files/st.jpg)  
 
 - **Trellis** (1864). V&A Museum no. E.452-1919. 
-![](readme_files/t.jpg)  
+![](readme_files/t.jpg){:height="50%" width="50%"}  
 
 - **Holland Park** (1883). Met Museum no. 27.139.3.  
 ![](readme_files/hp.jpg)  
@@ -31,7 +31,7 @@ Here, palettes are constructed from six of William Morris' most famous works:
 ![](readme_files/fl.jpg)  
 
 - **Acanthus** (1875). V&A Museum no. E.496-1919. 
-![](readme_files/ajpg)
+![](readme_files/a.jpg)
 
 ## Colour Palettes  
 
