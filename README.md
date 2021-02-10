@@ -16,7 +16,7 @@ This package provides a number of palettes for ggplot2 inspired by the British t
 
 # Installation  
 
-Please use the `devtools` package inorder to install `morris`.
+Please use the `devtools` package in order to install `morris`.
 
 ``` r
 devtools::install_github("cshoggard/morris")
