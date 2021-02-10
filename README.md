@@ -97,4 +97,45 @@ scales::show_col(morris:::acanthus_palette)
 ```
 
 <img src="readme_files/acanthus.jpeg" width="600" />  
+  
+  
+## For example...
+
+``` r
+library(tidyverse)
+#> -- Attaching packages ------------------------------------------------ tidyverse 1.2.1 --
+#> v ggplot2 3.1.0       v purrr   0.3.0  
+#> v tibble  2.0.1       v dplyr   0.8.0.1
+#> v tidyr   0.8.2       v stringr 1.4.0  
+#> v readr   1.3.1       v forcats 0.4.0
+#> -- Conflicts --------------------------------------------------- tidyverse_conflicts() --
+#> x dplyr::filter() masks stats::filter()
+#> x dplyr::lag()    masks stats::lag()
+library(morris)
+library(palmerpenguins)
+library(extrafont)
+#> Registering fonts with R
+```  
+
+``` plot
+loadfonts(device = "win")
+
+theme_set(theme_minimal(base_size = 12, base_family = "Lato"))
+
+penguins %>%
+  ggplot(aes(flipper_length_mm, body_mass_g, shape = species, colour = species)) +
+           geom_point(size = 3) +
+  scale_colour_flowers() +
+  labs(title = "Penguin Mass vs. Flipper Length",
+       x = "Flipper Length (mm)", 
+       y = "Body Mass (g)",
+       shape = "Species",
+       colour = "Species") +
+  theme(plot.title = element_text(size = 18, hjust = 0.5, margin = margin(0,0,20,0)),
+        legend.position = "bottom")
+```
+
+<img src="readme_files/Example.tiff" width="400" />  
+
+
 
