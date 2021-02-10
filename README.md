@@ -15,6 +15,7 @@ This package provides a number of palettes for ggplot2 inspired by the British t
 Here, palettes are constructed from six of William Morris' most famous works: 
 
 - **Strawberry Thief** (1883). V&A Museum no. T.586-1919.  
+
 ![](readme_files/st.jpg)  
 
 - **Trellis** (1864). V&A Museum no. E.452-1919. 
