@@ -12,13 +12,25 @@ This package provides a number of palettes for ggplot2 inspired by the British t
 
 ![](readme_files/wm.jpg)
 
-Here, palettes are constructed from six of William Morris' most famous works:  
+Here, palettes are constructed from six of William Morris' most famous works: 
+
 - **Strawberry Thief** (1883). V&A Museum no. T.586-1919.  
-- **Trellis** (1864). V&A Museum no. E.452-1919.  
+![](readme_files/wm.jpg)  
+
+- **Trellis** (1864). V&A Museum no. E.452-1919. 
+![](readme_files/t.jpg)  
+
 - **Holland Park** (1883). Met Museum no. 27.139.3.  
+![](readme_files/hp.jpg)  
+
 - **Peacock and Dragons** (1878). WMG no. F26e.  
+![](readme_files/pd.jpg)  
+
 - **Embroidery with Flowers and Leaves (Leek Embroidery Society)** (1885-1895). Rijksmuseum no. BK-1994-28.  
-- **Acanthus** (1875). V&A Museum no. E.496-1919.  
+![](readme_files/fl.jpg)  
+
+- **Acanthus** (1875). V&A Museum no. E.496-1919. 
+![](readme_files/ajpg)
 
 ## Colour Palettes  
 
