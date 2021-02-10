@@ -23,7 +23,7 @@ Here, palettes are constructed from six of William Morris' most famous works:
 
 - **Strawberry Thief** (1883). V&A Museum no. T.586-1919.  
 
-<img src="readme_files/st.jpg" width="300" />
+<img src="readme_files/st.jpeg" width="300" />
 
 - **Trellis** (1864). V&A Museum no. E.452-1919.  
 
