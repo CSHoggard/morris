@@ -22,37 +22,11 @@ Please use the `devtools` package in order to install `morris`.
 devtools::install_github("cshoggard/morris")
 ```
 
-Here, palettes are constructed from six of William Morris' most famous works: 
+All colour palettes were extracted from images of original works using the `magick` and `imager` packages. Here, palettes are constructed from six of William Morris' most famous works: 
 
-- **Strawberry Thief** (1883). V&A Museum no. T.586-1919.  
+**Strawberry Thief** (1883). V&A Museum no. T.586-1919.  
 
-<img src="readme_files/st.jpg" width="300" />
-
-- **Trellis** (1864). V&A Museum no. E.452-1919.  
-
-<img src="readme_files/t.jpg" width="300" /> 
-
-- **Holland Park** (1883). Met Museum no. 27.139.3.  
-
-<img src="readme_files/hp.jpg" width="300" />  
-
-- **Peacock and Dragons** (1878). WMG no. F26e.  
-
-<img src="readme_files/pd.jpg" width="300" />  
-
-- **Embroidery with Flowers and Leaves (Leek Embroidery Society)** (1885-1895). Rijksmuseum no. BK-1994-28.  
-
-<img src="readme_files/fl.jpg" width="300" />
-
-- **Acanthus** (1875). V&A Museum no. E.496-1919. 
-
-<img src="readme_files/a.jpg" width="300" />
-
-## Colour Palettes  
-
-All colour palettes were extracted from images of original works using the `magick` and `imager` packages.
-
-### Strawberry Thief (1883)  
+<img src="readme_files/st.jpg" width="300" />  
 
 ``` r
 scales::show_col(morris:::strawberry_palette)
@@ -60,15 +34,19 @@ scales::show_col(morris:::strawberry_palette)
 
 <img src="readme_files/strawberry_chart.jpeg" width="600" />  
 
-### Trellis (1864)  
+**Trellis** (1864). V&A Museum no. E.452-1919.  
+
+<img src="readme_files/t.jpg" width="300" /> 
 
 ``` r
 scales::show_col(morris:::trellis_palette)
 ```  
 
-<img src="readme_files/trellis_chart.jpeg" width="600" />  
+<img src="readme_files/trellis_chart.jpeg" width="600" /> 
 
-### Holland Park (1883)  
+**Holland Park** (1883). Met Museum no. 27.139.3.  
+
+<img src="readme_files/hp.jpg" width="300" /> 
 
 ``` r
 scales::show_col(morris:::holland_palette)
@@ -76,7 +54,9 @@ scales::show_col(morris:::holland_palette)
 
 <img src="readme_files/holland_chart.jpeg" width="600" />  
 
-### Peacock and Dragons (1878)  
+**Peacock and Dragons** (1878). WMG no. F26e.  
+
+<img src="readme_files/pd.jpg" width="300" />  
 
 ``` r
 scales::show_col(morris:::peacock_palette)
@@ -84,16 +64,19 @@ scales::show_col(morris:::peacock_palette)
 
 <img src="readme_files/peacock_chart.jpeg" width="600" />  
 
-### Embroider with Flowers and Leaves (1885-1895)  
+**Embroidery with Flowers and Leaves (Leek Embroidery Society)** (1885-1895). Rijksmuseum no. BK-1994-28.  
+
+<img src="readme_files/fl.jpg" width="300" />  
 
 ``` r
 scales::show_col(morris:::flowers_palette)
 ```
 
-<img src="readme_files/flowers_chart.jpeg" width="600" />  
+<img src="readme_files/flowers_chart.jpeg" width="600" /> 
 
+**Acanthus** (1875). V&A Museum no. E.496-1919. 
 
-### Acanthus (1875)  
+<img src="readme_files/a.jpg" width="300" />  
 
 ``` r
 scales::show_col(morris:::acanthus_palette)
@@ -101,6 +84,7 @@ scales::show_col(morris:::acanthus_palette)
 
 <img src="readme_files/acanthus.jpeg" width="600" />  
   
+
   
 ## An example:
 
