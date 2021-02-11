@@ -1,4 +1,4 @@
-🎨📦 morris: William Morris palettes for ggplot2 📦🎨
+🎨📦 morris 📦🎨 : William Morris palettes for ggplot2 
 ================
 **Christian Steven Hoggard** (University of Southampton)
 
